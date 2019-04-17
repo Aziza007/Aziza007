@@ -1,0 +1,36 @@
+body {
+  background-image: url("poseidon.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+a:visited
+{
+color:inherit;
+text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+body {
+font-family: trajan-color, serif;
+font-weight: 400;
+font-style: normal;
+color: gold;
+}
+p{
+  text-align: center;
+  font-size: 30px;
+  line-height: 120px;
+}
+h1{
+  text-align: center;
+  font-size: 40px;
+}
+h2 {
+  line-height: 250px;
+text-align: center;
+font-size: 60px;
+font-weight: bold;
+
+}

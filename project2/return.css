@@ -1,0 +1,40 @@
+body {
+  background-image: url("return.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+body{
+  font-family: trajan-color, serif;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+}
+h1{
+  font-size: 70px;
+  text-align: center;
+  line-height: 100px;
+}
+div{
+  line-height: 500px;
+}
+P{
+  font-size: 40PX;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+h3{
+  position: fixed;
+  bottom: 0px;
+  font-size: 30px;
+  color: gold;
+}
+a:visited
+{
+color:inherit;
+text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
