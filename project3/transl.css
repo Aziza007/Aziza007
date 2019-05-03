@@ -1,0 +1,20 @@
+body{
+margin: 0;
+padding: 0;
+background: #FFA500
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+
+}
+h1{
+text-align: center;
+}
+.middle{
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+.btn{
+  text-decoration: none;
+}
