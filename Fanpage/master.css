@@ -1,8 +1,8 @@
 background {
-  background: url(rbackg.jpg)
-
-
-}
+  background: url("rbackg.jpg")
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 header{
   width: 490px;
@@ -12,10 +12,10 @@ header{
   position: relative;
 }
 h1 {
-color: black;
+color: red;
 text-align: center;
- letter-spacing: 3px;
- font-size: 80px;
+letter-spacing: 3px;
+font-size: 80px;
 }
 ul {
   list-style-type: none;
@@ -48,9 +48,4 @@ ul {
 body{
   margin: 0px;
 
-}
-background {
-  background: "antibg.gif";
-  background-repeat: no-repeat;
-  background-size: autp;
 }

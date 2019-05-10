@@ -2,7 +2,7 @@ background {
   background-color: #FFA07A;
 }
 h1 {
-  position: center;
+  text-align: center;
   font-family: 'Quicksand', sans-serif;
 }
 ul{
@@ -14,4 +14,19 @@ p {
 }
 img;{
   position: center;
+}
+.two {
+  text-align: center;
+}
+div{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
